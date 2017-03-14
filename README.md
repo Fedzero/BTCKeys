@@ -1,6 +1,9 @@
 # NodeJS BTC Key Bot by UKF - lebgh0st
 
-## Latest version 2.05
+## Developer: Hassan J. - lebgh0st/UKF
+## Steam: http://steamcommunity.com/id/lebgh0st
+## Reddit: https://www.reddit.com/user/lebgh0st/
+## Discord: https://discord.gg/QhGfREv
 
 ## Instructions
 
