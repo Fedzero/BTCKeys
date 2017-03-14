@@ -47,8 +47,7 @@ Once it does that, do !balance (as the admin) and copy and paste the generated a
 <p>Name: Hassan J. - lebgh0st/UKF<br/>
 Steam: http://steamcommunity.com/id/lebgh0st<br/>
 Reddit: https://www.reddit.com/user/lebgh0st/<br/>
-Discord: https://discord.gg/QhGfREv
-<p>
+Discord: https://discord.gg/QhGfREv</p>
 
 ## Donations
 <p>Donations are appreciated and welcome.<br/>
