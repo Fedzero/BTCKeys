@@ -48,7 +48,7 @@ Keep it empty, until you boot the bot and it will generate addresses.<br/>
 Once it does that, do !balance (as the admin) and copy and paste the generated address into your static_address field in config.js file.</p>
 
 ## Donations
-<p>Donations are appreciated and welcome.
-BTC address: 15mjZXmNAuSHzCfRanxvsmjVu9nZKn77C6
-Trade URL: https://steamcommunity.com/tradeoffer/new/?partner=168803984&token=DdE7HEab
+<p>Donations are appreciated and welcome.<br/>
+BTC address: 15mjZXmNAuSHzCfRanxvsmjVu9nZKn77C6<br/>
+Trade URL: https://steamcommunity.com/tradeoffer/new/?partner=168803984&token=DdE7HEab<br/>
 They help me pay my tuition fees, buy food and stay alive.</p>
