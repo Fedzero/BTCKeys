@@ -1,10 +1,5 @@
 # NodeJS BTC Key Bot by UKF - lebgh0st
 
-### Developer: Hassan J. - lebgh0st/UKF
-### Steam: http://steamcommunity.com/id/lebgh0st
-### Reddit: https://www.reddit.com/user/lebgh0st/
-### Discord: https://discord.gg/QhGfREv
-
 ## Instructions
 
 1. Download nodejs from https://nodejs.org/
@@ -46,6 +41,14 @@ Go to Settings -> Addresses -> My Bitcoin Wallet -> Manage -> More Options -> Sh
 What do I do with it?<br/>
 Keep it empty, until you boot the bot and it will generate addresses.<br/>
 Once it does that, do !balance (as the admin) and copy and paste the generated address into your static_address field in config.js file.</p>
+
+
+## Developer
+<p>Name: Hassan J. - lebgh0st/UKF<br/>
+Steam: http://steamcommunity.com/id/lebgh0st<br/>
+Reddit: https://www.reddit.com/user/lebgh0st/<br/>
+Discord: https://discord.gg/QhGfREv
+<p>
 
 ## Donations
 <p>Donations are appreciated and welcome.<br/>
