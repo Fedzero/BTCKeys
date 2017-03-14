@@ -1,0 +1,19 @@
+{
+  "name": "btckeys-bot",
+  "version": "1.0.0",
+  "description": "NodeJS BTC Key Bot by UKF - lebgh0st",
+  "main": "steambot.js",
+  "author": "lebgh0st - UKF",
+  "license": "ISC",
+  "dependencies": {
+    "steam-user": "latest",
+    "steamcommunity": "latest",
+    "steam-totp": "latest",
+    "steam-tradeoffer-manager": "latest",
+    "request": "latest",
+    "mysql": "latest",
+    "dateformat": "latest",
+    "socket.io-client": "latest",
+    "fs": "latest"
+  }
+}
